@@ -35,7 +35,7 @@ local multiQuest = {
 		{nombre= "SSJ2 Wukong",minimo = 6000000},
 		{nombre= "Perfect Atom",minimo = 3000000},
 		{nombre= "Kaio Student",minimo = 900000},
-		{nombre= "Evil Sayas",minimo = 300000},
+		{nombre= "Evil Saya",minimo = 300000},
  		{nombre= "Turtle Student",minimo = 100000},
 		{nombre= "Klirin",minimo = 50000},
 		{nombre= "X Fighters",minimo = 0},
